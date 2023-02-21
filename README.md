@@ -40,5 +40,4 @@
     	
 </div>
 
-![Snake animation](https://github.com/AndersonSantos07/AbdersonSantos07/blob/output/github-contribution-grid-snake.svg)
 
