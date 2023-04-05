@@ -3,7 +3,7 @@
 
 ◾ 👨🏾‍💻 Developer Front End Junior.
 
-◾ 🤖 Skills: HTML | CSS | JavaScript | Node.JS
+◾ 🤖 Skills: HTML | CSS | JavaScript | Node.JS | Express.JS | React.JS | Hooks | Styled.Components
 
 ◾ 🌱 Graduando em Sistemas de Informação pela Uninove.
 
