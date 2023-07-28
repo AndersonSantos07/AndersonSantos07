@@ -5,7 +5,7 @@
 
 ◾ 🤖 Skills: HTML | CSS | JavaScript | Node.JS | Express.JS | React.JS | Hooks | Styled.Components
 
-◾ 🌱 Graduando em Sistemas de Informação pela Uninove.
+◾ 🌱 Graduando em Ciência da Computação pela Universidade Descomplica Faculdade Digital.
 
 ◾ 📫 email: andersonsantos.s.silv@gmail.com
 
