@@ -1,9 +1,9 @@
 # #Olá, Eu sou Anderson Santos ✌️
 
 
-◾ 👨🏾‍💻 Developer Front End Junior.
+◾ 👨🏾‍💻 Developer FullStack Java Junior.
 
-◾ 🤖 Skills: HTML | CSS | JavaScript | Node.JS | Express.JS | React.JS | Hooks | Styled.Components
+◾ 🤖 Skills: HTML | CSS | JavaScript | Java | Express.JS | React.JS | Hooks | Styled.Components
 
 ◾ 🌱 Graduando em Ciência da Computação pela Universidade Descomplica Faculdade Digital.
 
