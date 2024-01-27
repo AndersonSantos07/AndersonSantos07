@@ -3,7 +3,7 @@
 
 ◾ 👨🏾‍💻 Desenvolvedor FullStack Java Junior.
 
-◾ 🤖 Skills: Java | Spring Boot | JSF | Primefaces | JSF | React | TypeScript | Docker | Tailwind CSS | PostgreSQL
+◾ 🤖 Skills: Java | Spring Boot | JSF | Primefaces | React | TypeScript | Docker | Tailwind CSS | PostgreSQL
 
 ◾ 🌱 Graduando em Ciência da Computação pela Universidade Descomplica Faculdade Digital.
 
