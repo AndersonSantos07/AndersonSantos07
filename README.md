@@ -58,5 +58,8 @@
 - [BlogPessoal](https://blogpessoalander.netlify.app/) - No projeto "Blog Pessoal" do Bootcamp FullStack Java Jr. da Generation Brasil, desenvolvi um blog usando React, JavaScript e TypeScript no frontend e Spring Boot com Java no backend. O design foi feito com Tailwind CSS. O foco foi em um sistema de gerenciamento de postagens com segurança reforçada através de JWT no Spring Security. Este projeto foi um marco importante no meu desenvolvimento como programador.
 
 - [SaviOurfood](https://saviourfood.netlify.app/) - O projeto do Bootcamp de Desenvolvimento Fullstack Java Junior consistiu no desenvolvimento de um e-commerce inovador para combater a fome, alinhado com a ODS 10 da ONU. A equipe, formada por Brayan Santos, Tainara Santos, Ygor Araújo, Thamires Ribeiro Cruz e Edevando Alves, criou um sistema que permite não apenas a venda, mas também a doação de alimentos. O projeto foi gerenciado com Trello e Scrum, usando MySQL, Java, Spring Boot, e JWT para o backend, e React, JavaScript, TypeScript, e Tailwind CSS para o frontend. Este trabalho marcou a conclusão do bootcamp com um impacto social positivo..
+- 
+
+![Animação de cobra](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 
